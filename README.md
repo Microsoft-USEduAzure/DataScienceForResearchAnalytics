@@ -1,1 +1,3 @@
-# DataScienceForResearchAnalytics
+# Welcome to DataScience For Research Analytics Repostiory (under construction)
+
+# Lots of learning and collaboration around this topic will be available soon ...
