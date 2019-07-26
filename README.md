@@ -1,3 +1,3 @@
-# Welcome to DataScience For Research Analytics Repostiory (under construction)
+# Welcome to Data Science For Research Analytics Repostiory
 
-# Lots of learning and collaboration around this topic will be available soon ...
+[Please visit our wiki while we build out the repository](https://github.com/Microsoft-USEduAzure/DataScienceForResearchAnalytics/wiki)
